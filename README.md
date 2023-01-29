@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jarosław, a passionate frontend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Own project](https://github.com/)  
+- 🔭 I’m currently working on [Employee menegement app](https://github.com/JaroslawGlowacki/React-project-employees-app.git)  
   
 
 - 🌱I’m currently learning React and Redux  
